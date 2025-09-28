@@ -20,7 +20,7 @@ I build perception, control, and autonomy systems using ROS 2, Python, and compu
 | **Vision Inference** | YOLOv8 inference pipeline + object detection demos |
 | **Autonomous Rover (IRoC)** | Navigation, path planning, perception stack |
 
-> 👉 Click [My Robotics Portfolio](https://github.com/saianup/robotics-portfolio) for links to all projects, demos, and source code.
+> 👉 Click [My Robotics Portfolio](https://github.com/saianup/portfolio) for links to all projects, demos, and source code.
 
 ---
 
